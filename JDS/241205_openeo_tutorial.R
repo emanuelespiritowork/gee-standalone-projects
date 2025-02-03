@@ -1,3 +1,4 @@
+#written over the script of F. Nutini (CNR-IREA) 
 library(openeo)
 image_repository = connect(host = "https://openeo.dataspace.copernicus.eu/openeo/1.2")
 
